@@ -277,6 +277,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
+  jekyll-redirect-from (~> 0.16.0)
   kramdown-parser-gfm
   minima (~> 2.0)
   tzinfo (~> 1.2)
