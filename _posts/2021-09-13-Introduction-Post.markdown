@@ -3,6 +3,7 @@ layout: post
 title:  "Introduction Post"
 date:   2021-09-13 15:24:35 -0500
 categories: Introductions
+author: Thomas Sebring
 ---
 
 # What parts were new to me?
