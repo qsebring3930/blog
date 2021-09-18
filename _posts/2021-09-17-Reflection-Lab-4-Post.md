@@ -8,7 +8,7 @@ author: Thomas Sebring
 
 # What parts were new to me?
 Understanding the structure of jekyll, how it uses documents and how to edit them. It actually made me pretty nervous trying to figure some of the language out because I was unfamiliar with it, I thought I was going to break something since jekyll is a terminal program and end up like [this guy](https://developer.apple.com/forums/thread/117216).
-![Jekyll code](/_assets/Jekyll_example.png "Jekyll code")
+![Jekyll code](/blog/Jekyll_example.png "Jekyll code")
 
 
 # What parts did I struggle with?
